@@ -1,0 +1,59 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "homothety_obstruction_vs_rotation_exact",
+  "name": "mode2_grid3x3_9pts",
+  "source_points": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "1"
+    ],
+    [
+      "0",
+      "2"
+    ],
+    [
+      "1",
+      "0"
+    ],
+    [
+      "1",
+      "1"
+    ],
+    [
+      "1",
+      "2"
+    ],
+    [
+      "2",
+      "0"
+    ],
+    [
+      "2",
+      "1"
+    ],
+    [
+      "2",
+      "2"
+    ]
+  ],
+  "color_functional_w": [
+    "1",
+    "0"
+  ],
+  "rotation_matrix": [
+    [
+      "8/17",
+      "-15/17"
+    ],
+    [
+      "15/17",
+      "8/17"
+    ]
+  ],
+  "claimed_homothety_colors": 3,
+  "claimed_rotated_colors": 9
+}

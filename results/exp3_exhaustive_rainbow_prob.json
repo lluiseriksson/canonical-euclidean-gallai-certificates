@@ -1,0 +1,37 @@
+{
+  "experiment": "exp3_exhaustive_rainbow_prob",
+  "rows": [
+    {
+      "instance": "H3_spread",
+      "rainbow_count": 56,
+      "total_choices": 64,
+      "exact_prob": "7/8",
+      "prob_float": 0.875,
+      "union_bound_lb": 0.25
+    },
+    {
+      "instance": "H3_tight",
+      "rainbow_count": 63,
+      "total_choices": 64,
+      "exact_prob": "63/64",
+      "prob_float": 0.984375,
+      "union_bound_lb": 0.25
+    },
+    {
+      "instance": "H3_skewed",
+      "rainbow_count": 50,
+      "total_choices": 64,
+      "exact_prob": "25/32",
+      "prob_float": 0.78125,
+      "union_bound_lb": 0.25
+    },
+    {
+      "instance": "H3_sparse",
+      "rainbow_count": 45,
+      "total_choices": 64,
+      "exact_prob": "45/64",
+      "prob_float": 0.703125,
+      "union_bound_lb": 0.25
+    }
+  ]
+}

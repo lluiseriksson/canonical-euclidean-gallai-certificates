@@ -1,0 +1,29 @@
+{
+  "experiment": "exp4_homothety_vs_rotation",
+  "rows": [
+    {
+      "shape": "Unit Square (4)",
+      "t_points": 4,
+      "homothety_colors": 2,
+      "rotated_colors": 4
+    },
+    {
+      "shape": "2x3 Grid (6)",
+      "t_points": 6,
+      "homothety_colors": 3,
+      "rotated_colors": 6
+    },
+    {
+      "shape": "Diamond (4)",
+      "t_points": 4,
+      "homothety_colors": 2,
+      "rotated_colors": 4
+    },
+    {
+      "shape": "3x3 Grid (9)",
+      "t_points": 9,
+      "homothety_colors": 3,
+      "rotated_colors": 9
+    }
+  ]
+}

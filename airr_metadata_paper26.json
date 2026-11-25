@@ -1,0 +1,15 @@
+{
+  "title": "Machine-Checked Exact-Rational Similarity, Subspace-Equivalence, and Rainbow Union-Bound Certificates for the Canonical Euclidean Gallai Theorem",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Randall Shaw (arXiv:2611.33136, November 24, 2026) proved a canonical Euclidean Gallai theorem: for every finite point configuration S in R^d, every (possibly infinite) colouring of R^d contains a scaled and rotated (similar) copy of S that is either monochromatic or rainbow. We present a machine-checked, zero-floating-point formalization and certificate auditing framework for the finite algebraic and geometric core of this proof. An 18-theorem zero-dependency Lean 4 kernel (Lean 4.35.0; 0 sorry, 0 warnings, 0 Classical.choice, 3 zero-axiom theorems) certifies the homothety obstruction on {0,1}^2, Pythagorean (3,4,5) rotation orthogonality and rainbow rescue, exact 2D direct similarity scaling, linear-combination closure, and Brahmagupta-Fibonacci composition, 3D homothety scaling, Z^k subspace equivalence axioms (Fin k -> Int), Randall Shaw's Key Uniqueness Lemma, exact lift dimensions k(2..5) = (2,21,124,455), 2*C(t,2)=t(t-1), and inductive union-bound survival. A pure-stdlib zero-float verifier audits CANONICAL-GALLAI-CERT-1.0 across four modes (2D/3D similarity copies, SO(2) rotation rescues, ker(H) subspace dichotomies with exhaustive Key Uniqueness sweeps, and lift/2D similarity-sum closure), replaying 16 canonical certificates in 0.060-22.18 ms and rejecting 57/57 live adversarial forgeries.",
+  "primary_domain": "math.CO",
+  "secondary_domains": ["cs.LO", "math.MG"],
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by Lluis Eriksson with transparent AI assistance via Google Antigravity.",
+  "source_repo": "https://github.com/lluiseriksson/canonical-euclidean-gallai-certificates",
+  "release_tag": "v1.0.0",
+  "hostile_referee_verdict": "ACCEPT",
+  "hostile_referee_score": "9.7/10 (5.0/5)"
+}

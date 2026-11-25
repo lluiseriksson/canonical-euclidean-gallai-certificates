@@ -1,0 +1,30 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "lift_union_bound_and_2d_sum_exact",
+  "name": "mode4_lift_t3",
+  "t_points": 3,
+  "claimed_pair_count_P": 3,
+  "claimed_lift_dim_k": 21,
+  "claimed_grid_bound_m": 12,
+  "claimed_union_bound_lb": "1/4",
+  "sim2d_weights_c": [
+    1,
+    2,
+    3
+  ],
+  "sim2d_params_ab": [
+    [
+      "3/5",
+      "4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ],
+    [
+      "1",
+      "2/5"
+    ]
+  ],
+  "claimed_sum_scale_sq": "932/25"
+}

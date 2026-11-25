@@ -1,0 +1,77 @@
+{
+  "experiment": "exp2_lift_scaling",
+  "rows": [
+    {
+      "t_points": 2,
+      "pair_count_P": 1,
+      "lift_dim_k": 2,
+      "grid_bound_m": 2,
+      "union_bound_lb_exact": "1/2",
+      "union_bound_lb": 0.5
+    },
+    {
+      "t_points": 3,
+      "pair_count_P": 3,
+      "lift_dim_k": 21,
+      "grid_bound_m": 12,
+      "union_bound_lb_exact": "1/4",
+      "union_bound_lb": 0.25
+    },
+    {
+      "t_points": 4,
+      "pair_count_P": 6,
+      "lift_dim_k": 124,
+      "grid_bound_m": 42,
+      "union_bound_lb_exact": "1/7",
+      "union_bound_lb": 0.142857
+    },
+    {
+      "t_points": 5,
+      "pair_count_P": 10,
+      "lift_dim_k": 455,
+      "grid_bound_m": 110,
+      "union_bound_lb_exact": "1/11",
+      "union_bound_lb": 0.090909
+    },
+    {
+      "t_points": 6,
+      "pair_count_P": 15,
+      "lift_dim_k": 1266,
+      "grid_bound_m": 240,
+      "union_bound_lb_exact": "1/16",
+      "union_bound_lb": 0.0625
+    },
+    {
+      "t_points": 7,
+      "pair_count_P": 21,
+      "lift_dim_k": 2947,
+      "grid_bound_m": 462,
+      "union_bound_lb_exact": "1/22",
+      "union_bound_lb": 0.045455
+    },
+    {
+      "t_points": 8,
+      "pair_count_P": 28,
+      "lift_dim_k": 6056,
+      "grid_bound_m": 812,
+      "union_bound_lb_exact": "1/29",
+      "union_bound_lb": 0.034483
+    },
+    {
+      "t_points": 9,
+      "pair_count_P": 36,
+      "lift_dim_k": 11349,
+      "grid_bound_m": 1332,
+      "union_bound_lb_exact": "1/37",
+      "union_bound_lb": 0.027027
+    },
+    {
+      "t_points": 10,
+      "pair_count_P": 45,
+      "lift_dim_k": 19810,
+      "grid_bound_m": 2070,
+      "union_bound_lb_exact": "1/46",
+      "union_bound_lb": 0.021739
+    }
+  ]
+}

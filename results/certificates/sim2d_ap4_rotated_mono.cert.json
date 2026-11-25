@@ -1,0 +1,62 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "rational_similarity_copy_exact",
+  "name": "mode1_ap4_rotated_mono",
+  "dim_d": 2,
+  "source_points": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0"
+    ],
+    [
+      "2",
+      "0"
+    ],
+    [
+      "3",
+      "0"
+    ]
+  ],
+  "target_points": [
+    [
+      "5",
+      "1"
+    ],
+    [
+      "5",
+      "3"
+    ],
+    [
+      "5",
+      "5"
+    ],
+    [
+      "5",
+      "7"
+    ]
+  ],
+  "sim_matrix": [
+    [
+      "0",
+      "-2"
+    ],
+    [
+      "2",
+      "0"
+    ]
+  ],
+  "translation": [
+    "5",
+    "1"
+  ],
+  "claimed_scale_sq": "4",
+  "color_functional_w": [
+    "1",
+    "0"
+  ],
+  "claimed_coloring_type": "monochromatic"
+}

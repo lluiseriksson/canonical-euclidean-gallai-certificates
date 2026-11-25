@@ -1,0 +1,65 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "lift_union_bound_and_2d_sum_exact",
+  "name": "mode4_lift_t5",
+  "t_points": 5,
+  "claimed_pair_count_P": 10,
+  "claimed_lift_dim_k": 455,
+  "claimed_grid_bound_m": 110,
+  "claimed_union_bound_lb": "1/11",
+  "sim2d_weights_c": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "sim2d_params_ab": [
+    [
+      "3/5",
+      "4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ],
+    [
+      "1",
+      "2/5"
+    ],
+    [
+      "3/5",
+      "4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ],
+    [
+      "1",
+      "2/5"
+    ],
+    [
+      "3/5",
+      "4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ],
+    [
+      "1",
+      "2/5"
+    ],
+    [
+      "3/5",
+      "4/5"
+    ]
+  ],
+  "claimed_sum_scale_sq": "75217/25"
+}

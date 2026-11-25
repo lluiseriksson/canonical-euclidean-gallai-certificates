@@ -1,0 +1,19 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "subspace_coloring_dichotomy_exact",
+  "name": "mode3_subspace_mono_t4",
+  "t_points": 4,
+  "ambient_k": 4,
+  "annihilator_H": [
+    [
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  ],
+  "case_type": "monochromatic",
+  "pair_basis_vectors": [],
+  "coefficients_c": [],
+  "claimed_surviving_prob_lb": "1"
+}

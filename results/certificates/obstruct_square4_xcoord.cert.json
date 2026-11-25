@@ -1,0 +1,39 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "homothety_obstruction_vs_rotation_exact",
+  "name": "mode2_square4_xcoord",
+  "source_points": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "1"
+    ]
+  ],
+  "color_functional_w": [
+    "1",
+    "0"
+  ],
+  "rotation_matrix": [
+    [
+      "3/5",
+      "-4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ]
+  ],
+  "claimed_homothety_colors": 2,
+  "claimed_rotated_colors": 4
+}

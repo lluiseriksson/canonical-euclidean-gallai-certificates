@@ -1,0 +1,62 @@
+{
+  "schema": "CANONICAL-GALLAI-CERT-1.0",
+  "mode": "rational_similarity_copy_exact",
+  "name": "mode1_square_345_rainbow",
+  "dim_d": 2,
+  "source_points": [
+    [
+      "0",
+      "0"
+    ],
+    [
+      "1",
+      "0"
+    ],
+    [
+      "0",
+      "1"
+    ],
+    [
+      "1",
+      "1"
+    ]
+  ],
+  "target_points": [
+    [
+      "2",
+      "-1"
+    ],
+    [
+      "13/5",
+      "-1/5"
+    ],
+    [
+      "6/5",
+      "-2/5"
+    ],
+    [
+      "9/5",
+      "2/5"
+    ]
+  ],
+  "sim_matrix": [
+    [
+      "3/5",
+      "-4/5"
+    ],
+    [
+      "4/5",
+      "3/5"
+    ]
+  ],
+  "translation": [
+    "2",
+    "-1"
+  ],
+  "claimed_scale_sq": "1",
+  "color_functional_w": [
+    "1",
+    "0"
+  ],
+  "claimed_coloring_type": "rainbow"
+}
